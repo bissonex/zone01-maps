@@ -1,0 +1,83 @@
+[
+  {
+    "Numero": 123,
+    "Nom": "Probots",
+    "Pays": "Greece",
+    "subtag": "GR",
+    "Categorie": "Elementary",
+    "Defi": "Windstorm"
+  },
+  {
+    "Numero": 321,
+    "Nom": "Megabots",
+    "Pays": "Greece",
+    "subtag": "GR",
+    "Categorie": "Elementary",
+    "Defi": "Windstorm"
+  },
+  {
+    "Numero": 223,
+    "Nom": "The Best",
+    "Pays": "USA",
+    "subtag": "US",
+    "Categorie": "Senior",
+    "Defi": "Rising Water"
+  },
+  {
+    "Numero": 245,
+    "Nom": "Eclipse",
+    "Pays": "Canada",
+    "subtag": "CA",
+    "Categorie": "Junior",
+    "Defi": "Snowstorm"
+  },
+  {
+    "Numero": 133,
+    "Nom": "Team Taiwan",
+    "Pays": "Taiwan",
+    "subtag": "TW",
+    "Categorie": "Junior",
+    "Defi": "Snowstorm"
+  },
+  {
+    "Numero": 114,
+    "Nom": "Best in the west",
+    "Pays": "USA",
+    "subtag": "US",
+    "Categorie": "Senior",
+    "Defi": "Surprise"
+  },
+  {
+    "Numero": 156,
+    "Nom": "Turtle",
+    "Pays": "Canada",
+    "subtag": "CA",
+    "Categorie": "Elementary",
+    "Defi": "Windstorm"
+  },
+  {
+    "Numero": 156,
+    "Nom": "Turtle",
+    "Pays": "Canada",
+    "subtag": "CA",
+    "Categorie": "Elementary",
+    "Defi": "Surprise"
+  },
+  {
+    "Numero": 154,
+    "Nom": "Aligators",
+    "Pays": "China",
+    "subtag": "CN",
+    "Categorie": "Junior",
+    "Defi": "Snowstorm"
+  },
+  {
+    "Numero": 148,
+    "Nom": "Falcon Heavy",
+    "Pays": "Canada",
+    "subtag": "CA",
+    "Categorie": "Junior",
+    "Defi": "Surprise",
+    "Lien": "https://en.wikipedia.org/wiki/Falcon_Heavy"
+  }
+]

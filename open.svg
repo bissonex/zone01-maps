@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg898"
+   width="648"
+   height="388"
+   viewBox="0 0 648 388"
+   sodipodi:docname="open.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata904">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs902" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2077"
+     inkscape:window-height="1158"
+     id="namedview900"
+     showgrid="false"
+     inkscape:zoom="1.0308642"
+     inkscape:cx="314.2994"
+     inkscape:cy="187.20958"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g906"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/Users/eric/Sandbox/html/open.png"
+       xlink:href="open.png"
+       width="648"
+       height="388"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image908" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Interactive">
+    <rect
+       style="opacity:0;fill:#e5e51a;fill-opacity:0.5"
+       id="123"
+       width="33.952095"
+       height="30.071857"
+       x="30.071856"
+       y="30.071856"
+       class="webhover"
+       onclick="action_openlink(this)"
+       onhover="action_show(this)" />
+    <rect
+       style="opacity:0;fill:#e5e51a;fill-opacity:0.5;stroke-width:1.01961"
+       id="321"
+       width="33.952095"
+       height="31.262238"
+       x="60.628742"
+       y="28.39645"
+       class="webhover"
+       onclick="action_openlink(this)"
+       onhover="action_show(this)" />
+    <rect
+       style="opacity:0;fill:#e5e51a;fill-opacity:0.5;stroke-width:0.960312"
+       id="223"
+       width="30.117769"
+       height="31.262236"
+       x="94.580841"
+       y="28.39645"
+       class="webhover"
+       onclick="action_openlink(this)"
+       onhover="action_show(this)" />
+    <rect
+       style="opacity:0;fill:#e5e51a;fill-opacity:0.5;stroke-width:1.02215"
+       id="245"
+       width="33.952095"
+       height="31.418364"
+       x="30.071856"
+       y="60.143715"
+       class="webhover"
+       onclick="action_openlink(this)"
+       onhover="action_show(this)" />
+    <rect
+       style="opacity:0;fill:#e5e51a;fill-opacity:0.5;stroke-width:0.983802"
+       id="133"
+       width="33.952095"
+       height="29.105089"
+       x="30.071856"
+       y="91.56208"
+       class="webhover"
+       onclick="action_openlink(this)"
+       onhover="action_show(this)" />
+    <rect
+       style="opacity:0;fill:#e5e51a;fill-opacity:0.5;stroke-width:0.850106"
+       id="114"
+       width="27.161657"
+       height="27.164974"
+       x="111.07183"
+       y="165.87859"
+       class="webhover"
+       onclick="action_openlink(this)"
+       onhover="action_show(this)" />
+    <rect
+       style="opacity:0;fill:#e5e51a;fill-opacity:0.5;stroke-width:0.928177"
+       id="156"
+       width="32.379517"
+       height="27.164976"
+       x="138.23349"
+       y="165.87859"
+       class="webhover"
+       onclick="action_openlink(this)"
+       onhover="action_show(this)" />
+    <rect
+       style="opacity:0;fill:#e5e51a;fill-opacity:0.5;stroke-width:0.905362"
+       id="154"
+       width="30.807199"
+       height="27.164978"
+       x="170.61301"
+       y="165.87859"
+       class="webhover"
+       onclick="action_openlink(this)"
+       onhover="action_show(this)" />
+    <rect
+       style="opacity:0;fill:#e5e51a;fill-opacity:0.5;stroke-width:0.923563"
+       id="148"
+       width="27.161661"
+       height="32.06226"
+       x="111.07183"
+       y="193.04356"
+       class="webhover"
+       onclick="action_openlink(this)"
+       onhover="action_show(this)" />
+  </g>
+</svg>
