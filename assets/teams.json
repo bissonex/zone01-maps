@@ -5,7 +5,8 @@
     "Pays": "Greece",
     "subtag": "GR",
     "Categorie": "Elementary",
-    "Defi": "Windstorm"
+    "Defi": "Windstorm",
+    "Lien": "https://www.terrapinlogo.com/probot.html"
   },
   {
     "Numero": 321,
@@ -13,7 +14,8 @@
     "Pays": "Greece",
     "subtag": "GR",
     "Categorie": "Elementary",
-    "Defi": "Windstorm"
+    "Defi": "Windstorm",
+    "Lien": "https://megabots.com/"
   },
   {
     "Numero": 223,
@@ -21,7 +23,8 @@
     "Pays": "USA",
     "subtag": "US",
     "Categorie": "Senior",
-    "Defi": "Rising Water"
+    "Defi": "Rising Water",
+    "Lien": "https://en.wikipedia.org/wiki/Best_Products"
   },
   {
     "Numero": 245,
@@ -29,7 +32,8 @@
     "Pays": "Canada",
     "subtag": "CA",
     "Categorie": "Junior",
-    "Defi": "Snowstorm"
+    "Defi": "Snowstorm",
+    "Lien": "https://en.wikipedia.org/wiki/Eclipse"
   },
   {
     "Numero": 133,
@@ -37,7 +41,8 @@
     "Pays": "Taiwan",
     "subtag": "TW",
     "Categorie": "Junior",
-    "Defi": "Snowstorm"
+    "Defi": "Snowstorm",
+    "Lien": "https://kotaku.com/genshin-impact-is-censoring-words-like-taiwan-and-ho-1845294645"
   },
   {
     "Numero": 114,
@@ -45,7 +50,8 @@
     "Pays": "USA",
     "subtag": "US",
     "Categorie": "Senior",
-    "Defi": "Surprise"
+    "Defi": "Surprise",
+    "Lien": "https://en.wikipedia.org/wiki/Best_Products"
   },
   {
     "Numero": 156,
@@ -53,15 +59,8 @@
     "Pays": "Canada",
     "subtag": "CA",
     "Categorie": "Elementary",
-    "Defi": "Windstorm"
-  },
-  {
-    "Numero": 156,
-    "Nom": "Turtle",
-    "Pays": "Canada",
-    "subtag": "CA",
-    "Categorie": "Elementary",
-    "Defi": "Surprise"
+    "Defi": "Surprise",
+    "Lien": "https://en.wikipedia.org/wiki/Turtle"
   },
   {
     "Numero": 154,
@@ -69,7 +68,8 @@
     "Pays": "China",
     "subtag": "CN",
     "Categorie": "Junior",
-    "Defi": "Snowstorm"
+    "Defi": "Snowstorm",
+    "Lien": "https://en.wikipedia.org/wiki/Alligator"
   },
   {
     "Numero": 148,
