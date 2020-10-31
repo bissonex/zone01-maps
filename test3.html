@@ -11132,20 +11132,52 @@
       />
     </svg>
 
-    <div class="panel">
-      <p id="p_name"></p>
-      <p id="p_country"></p>
+    <div id="zone_info" class="panel">
+      <p id="p_text">test</p>
     </div>
+
     <script>
-      function myFunction(elmnt) {
+      action_hide();
+
+      fetch("assets/info.json")
+        .then((response) => {
+          return response.json();
+        })
+        .then((data) => {
+          console.log(data);
+          teams = data;
+        });
+
+      function action_show(elmnt) {
+        var x = document.getElementById("zone_info");
+        x.style.display = "block";
+
         console.log(elmnt.id);
-        document.getElementById("p_name").innerHTML = elmnt.dataset.team;
-        document.getElementById("p_country").innerHTML = elmnt.dataset.country;
+        info = getInfo(elmnt.id);
+        document.getElementById("p_text").innerHTML = info.text;
+      }
+
+      function action_hide() {
+        var x = document.getElementById("zone_info");
+        x.style.display = "none";
       }
 
       function action_follow(elmnt) {
         console.log("goto: " + elmnt.id);
         window.open(elmnt.id + ".html", "_self");
+      }
+
+      function action_follow(elmnt) {
+        console.log("goto: " + elmnt.id);
+        window.open(elmnt.id + ".html", "_self");
+      }
+
+      function getInfo(id) {
+        for (team of teams) {
+          if (team.Numero == parseInt(id)) {
+            return team;
+          }
+        }
       }
     </script>
   </body>
