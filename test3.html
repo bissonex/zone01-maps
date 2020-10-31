@@ -11180,8 +11180,8 @@
         x.style.display = "block";
 
         console.log(elmnt.id);
-        info = getInfo(elmnt.id);
-        document.getElementById("p_text").innerHTML = info.en;
+        zone = getInfo(elmnt.id);
+        document.getElementById("p_text").innerHTML = zone.en;
       }
 
       function action_hide() {
@@ -11191,12 +11191,13 @@
 
       function action_follow(elmnt) {
         console.log("goto: " + elmnt.id);
-        window.open(elmnt.id + ".html", "_self");
-      }
-
-      function action_follow(elmnt) {
-        console.log("goto: " + elmnt.id);
-        window.open(elmnt.id + ".html", "_self");
+        zone = getInfo(elmnt.id);
+        if (zone.link === "") {
+          // string is empty, open link to zone
+          window.open(elmnt.id + ".html", "_self");
+        } else {
+          window.open(zone.link);
+        }
       }
 
       function getInfo(id) {

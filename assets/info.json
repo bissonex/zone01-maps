@@ -1,57 +1,68 @@
 [
   {
     "id": "race_track",
-    "fr": "(Seulement au Canada) Le Grand Prix de Formule1(™) est disputé chaque année à Montréal sur le circuit Gilles Villeneuve. La Formule 01 de Zone01 est une course de voitures EV3 sur un grand circuit. \nUne course en autonome permet de déterminer les meilleures voitures et une course téléguidée permet aux pilotes de s’illustrer et aux mécanos de montrer leur rapidité lors d’un arrêt aux puits!\n",
-    "en": "Football (or soccer in Canada) is a World Robot Olympiad challenge in which 2 autonomous robots face 2 other robots in a hard fought match. Soccer will not be played at WRO 2020-X."
+    "fr": "(Seulement au Canada) Le Grand Prix de Formule1&#8482; est disputé chaque année à Montréal sur le circuit Gilles Villeneuve. La Formule 01 de Zone01 est une course de voitures EV3 sur un grand circuit. <br/>Une course en autonome permet de déterminer les meilleures voitures et une course téléguidée permet aux pilotes de s’illustrer et aux mécanos de montrer leur rapidité lors d’un arrêt aux puits!",
+    "en": "<b>(Only in Canada)</b> The Formula 1 Grand Prix&#8482; is held annually in Montreal on Circuit Gilles Villeneuve. The Formula 01 by Zone01 is a race of EV3 cars on a large track. <br/>An autonomous race helps to determine the best cars and a remote controlled race allows the drivers to shine and the mechanics to show their speed during a pit stop!",
+    "link": ""
   },
   {
     "id": "arc_football",
     "fr": "Le football (ou soccer au Canada) est un défi de la World Robot Olympiad dans lequel 2 robots autonomes affrontent 2 autres robots dans un match chaudement disputé. Le Football ne sera pas joué à WRO 2020-X.",
-    "en": "Football (or soccer in Canada) is a World Robot Olympiad challenge in which 2 autonomous robots face 2 other robots in a hard fought match. Soccer will not be played at WRO 2020-X."
+    "en": "Football (or soccer in Canada) is a World Robot Olympiad challenge in which 2 autonomous robots face 2 other robots in a hard fought match. Soccer will not be played at WRO 2020-X.",
+    "link": "https://www.youtube.com/watch?v=7U-9hKkmESg"
   },
   {
     "id": "ice_hockey",
-    "fr": "(Seulement au Canada) Le hockey sur glace, sport national du Canada, se joue aussi entre robots. Le Hockeybot de Zone01 est une compétition en équipe 2 contre 2. Deux gardiens de but autonomes sont aussi en action. \nLes matchs sont en mode téléguidé alors que le concours d’habileté est réalisé en mode autonome. Émotion garantie!\n",
-    "en": "(Only in Canada) Ice hockey, Canada's national sport, is also played by robots. The Zone01 Hockeybot is a 2 on 2 competition. Two autonomous goaltenders are also in action. \nThe games are in remote controlled mode while the skill contest is played in autonomous mode. Emotion guaranteed!\n"
+    "fr": "(Seulement au Canada) Le hockey sur glace, sport national du Canada, se joue aussi entre robots. Le Hockeybot de Zone01 est une compétition en équipe 2 contre 2. Deux gardiens de but autonomes sont aussi en action. <br/>Les matchs sont en mode téléguidé alors que le concours d’habileté est réalisé en mode autonome. Émotion garantie!<br/>",
+    "en": "(Only in Canada) Ice hockey, Canada's national sport, is also played by robots. The Zone01 Hockeybot is a 2 on 2 competition. Two autonomous goaltenders are also in action. <br/>The games are in remote controlled mode while the skill contest is played in autonomous mode. Emotion guaranteed!<br/>",
+    "link": ""
   },
   {
     "id": "regular",
     "fr": "La catégorie Regular est associée à des défis joués sur des surfaces de jeu officielles avec du matériel LEGO seulement. Les défis sont réalisés en mode 100% autonome et font un usage intensif des capteurs",
-    "en": "The Regular Category is related to challenges played on an official playing field with LEGO material only. Challenges are played in 100% autonomous mode and make intensive use of sensors."
+    "en": "The Regular Category is related to challenges played on an official playing field with LEGO material only. Challenges are played in 100% autonomous mode and make intensive use of sensors.",
+    "link": ""
   },
   {
     "id": "open",
-    "fr": "La catégorie Open est associée à des projets de robotique présentés devant juges. Les projets permettent aux équipes de présenter des solutions originales à des problèmes complexes en lien avec les objectifs de développement durable de l’ONU. ",
-    "en": "The Open Category is related to robotics projects presented in front of judges. The projects allow teams to present original solutions to complex problems in connection with the UN's sustainable development goals. "
+    "fr": "La catégorie Open est associée à des projets de robotique présentés devant juges. Les projets permettent aux équipes de présenter des solutions originales à des problèmes complexes en lien avec les objectifs de développement durable de l’ONU.",
+    "en": "The Open Category is related to robotics projects presented in front of judges. The projects allow teams to present original solutions to complex problems in connection with the UN's sustainable development goals.",
+    "link": ""
   },
   {
     "id": "surprise",
     "fr": "La catégorie Surprise par Zone01 est associée à des défis dévoilés en direct durant l’événement. Les équipes ont 24 heures pour construire et programmer un robot pour solutionner la mission de leur catégorie d’âge.",
-    "en": "The Surprise Category by Zone01 is related to challenges unveiled live during the event. Teams have 24 hours to build and program a robot to solve the mission of their age group."
+    "en": "The Surprise Category by Zone01 is related to challenges unveiled live during the event. Teams have 24 hours to build and program a robot to solve the mission of their age group.",
+    "link": ""
   },
   {
     "id": "partners",
-    "fr": "Venez visiter les kiosques des partenaires de l’événement. Vous y trouverez des vidéos, entrevues et d’autres robots. C’est grâce aux partenaires de Zone01 et de la WRO que l’événement WRO 2020-X est rendu possible. ",
-    "en": "Come and visit our partners' booths at the event. You will find videos, interviews and even real life robots. WRO 2020-X is made possible thanks to Zone01 and WRO partners. "
+    "fr": "Venez visiter les kiosques des partenaires de l’événement. Vous y trouverez des vidéos, entrevues et d’autres robots. C’est grâce aux partenaires de Zone01 et de la WRO que l’événement WRO 2020-X est rendu possible.",
+    "en": "Come and visit our partners' booths at the event. You will find videos, interviews and even real life robots. WRO 2020-X is made possible thanks to Zone01 and WRO partners. ",
+    "link": ""
   },
   {
     "id": "experts",
-    "fr": "Les RobotMakers ont préparé spécialement pour WRO 2020-X des présentations captivantes de leurs dernières créations. Ils viennent de partout dans le monde et vous font découvrir le potentiel des plateformes robotiques.\nRencontrez chacun des experts à son kiosque!\n",
-    "en": "The RobotMakers have prepared exciting presentations of their latest creations just for WRO 2020-X. They come from all over the world and show you the potential of the robotic platforms.\nMeet each of the experts at their booth!\n"
+    "fr": "Les RobotMakers ont préparé spécialement pour WRO 2020-X des présentations captivantes de leurs dernières créations. Ils viennent de partout dans le monde et vous font découvrir le potentiel des plateformes robotiques.<br/>Rencontrez chacun des experts à son kiosque!",
+    "en": "The RobotMakers have prepared exciting presentations of their latest creations just for WRO 2020-X. They come from all over the world and show you the potential of the robotic platforms.<br/>Meet each of the experts at their booth!",
+    "link": ""
   },
   {
     "id": "photobooth",
-    "fr": "Le photobooth virtuel de WRO 2020-X, ouvert seulement durant l’événement, est l’occasion de garder une photo officielle de l’événement comme si vous étiez avec nous au Canada. Participez au concours-photo en partageant votre photo avec nous.\n",
-    "en": "The WRO 2020-X virtual photobooth, open only during the event, is an opportunity to take an official photo as if you were with us in Canada. Participate in the photo contest by sharing your photo with us.\n"
+    "fr": "Le photobooth virtuel de WRO 2020-X, ouvert seulement durant l’événement, est l’occasion de garder une photo officielle de l’événement comme si vous étiez avec nous au Canada. Participez au concours-photo en partageant votre photo avec nous.",
+    "en": "The WRO 2020-X virtual photobooth, open only during the event, is an opportunity to take an official photo as if you were with us in Canada. Participate in the photo contest by sharing your photo with us.",
+    "link": ""
   },
   {
     "id": "registration",
     "fr": "La période d’inscription est terminée",
-    "en": "Registration is now closed\n"
+    "en": "Registration is now closed",
+    "link": ""
   },
   {
     "id": "stage",
     "fr": "La zone de la scène vous donne accès aux enregistrements des cérémonies d’ouverture et de clôture, au live stream durant l’événement ainsi qu’au film Me & My Robot pour une durée limitée.",
-    "en": "The stage area gives you access to recordings of the opening and closing ceremonies, live stream during the event, results after the event and access to the Me & My Robot movie for a limited time."
+    "en": "The stage area gives you access to recordings of the opening and closing ceremonies, live stream during the event, results after the event and access to the Me & My Robot movie for a limited time.",
+    "link": ""
   }
 ]
