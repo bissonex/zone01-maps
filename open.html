@@ -240,7 +240,7 @@
 
       action_hide();
 
-      fetch("assets/teams.json")
+      fetch("assets/teams_f.json")
         .then((response) => {
           return response.json();
         })
@@ -254,12 +254,13 @@
         x.style.display = "block";
 
         console.log(elmnt.id);
-        info = getInfo(elmnt.id);
-        document.getElementById("p_name").innerHTML = info.Nom;
+        team = getInfo(elmnt.id);
+        document.getElementById("p_name").innerHTML = team.teamName;
         document.getElementById("p_country").src =
-          "assets/region-flags/png/" + info.subtag + ".png";
-        document.getElementById("p_category").innerHTML = info.Categorie;
-        document.getElementById("p_defi").innerHTML = info.Defi;
+          "assets/region-flags/png/" + team.schoolCountry + ".png";
+        document.getElementById("p_category").innerHTML =
+          team.challengeCategory;
+        document.getElementById("p_defi").innerHTML = team.challengeName;
       }
 
       function action_hide() {
@@ -275,7 +276,7 @@
 
       function getInfo(id) {
         for (team of teams) {
-          if (team.Numero == parseInt(id)) {
+          if (parseInt(team.teamNumber) == parseInt(id)) {
             return team;
           }
         }
